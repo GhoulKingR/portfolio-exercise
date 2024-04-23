@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export default function NameLinks() {
   return (
-    <Navigation aria-label="header-navigation">
+    <Navigation>
       <Name>adamkeyes</Name>
       <Links>
         <li>

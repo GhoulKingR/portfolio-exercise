@@ -20,7 +20,7 @@ const NameLinksCover = styled.div`
   padding-top: 20px;
 `;
 
-const Section = styled.section`
+const Section = styled.header`
   text-align: center;
   background-color: transparent;
   margin-top: -20px;
