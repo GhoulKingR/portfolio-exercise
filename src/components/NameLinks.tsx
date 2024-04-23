@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export default function NameLinks() {
   return (
-    <Section>
+    <Navigation aria-label="header-navigation">
       <Name>adamkeyes</Name>
       <Links>
         <li>
@@ -40,11 +40,11 @@ export default function NameLinks() {
           </svg>
         </li>
       </Links>
-    </Section>
+    </Navigation>
   )
 }
 
-const Section = styled.nav`
+const Navigation = styled.nav`
   max-width: 1110px;
 
   * {
@@ -66,7 +66,7 @@ const Section = styled.nav`
   }
 `;
 
-const Name = styled.div`
+const Name = styled.h1`
   width: 100%;
   text-align: center;
   margin-top: 20px;
