@@ -44,7 +44,7 @@ export default function NameLinks() {
   )
 }
 
-const Section = styled.div`
+const Section = styled.nav`
   max-width: 1110px;
 
   * {
@@ -81,7 +81,7 @@ const Name = styled.div`
   }
 `;
 
-const Links = styled.nav`
+const Links = styled.ul`
   list-style: none;
   display: flex;
   width: 100%;
