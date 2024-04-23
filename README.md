@@ -1,16 +1,16 @@
-# FrontendMentor Dictionary App Project
+# Frontend Mentor Portfolio Project
 
 ![Screenshot](./assets/screenshot.png)
 
-This app allows you to search for the meaning of any english word. To get the meaning of words, the application makes use of the free dictionary API provided by https://dictionaryapi.dev.
+A sample portfolio project.
 
-# 👨‍💻 Project page
+# 👨‍💻 Frontend Mentor page
 
-https://www.frontendmentor.io/solutions/dictionary-app-U99fXOp180
+https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
 
 # ⚡️ Live site 
 
-https://ghoulkingr.github.io/dictionary-app/
+https://ghoulkingr.github.io/portfolio-exercise/
 
 
 # 🏃‍♂️‍➡️ Running this project locally
