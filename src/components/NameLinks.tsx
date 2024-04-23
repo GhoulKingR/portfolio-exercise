@@ -44,7 +44,7 @@ export default function NameLinks() {
   )
 }
 
-const Navigation = styled.nav`
+const Navigation = styled.div`
   max-width: 1110px;
 
   * {
@@ -66,7 +66,7 @@ const Navigation = styled.nav`
   }
 `;
 
-const Name = styled.h1`
+const Name = styled.div`
   width: 100%;
   text-align: center;
   margin-top: 20px;
