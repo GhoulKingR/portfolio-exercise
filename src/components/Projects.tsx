@@ -64,7 +64,7 @@ function Projects() {
   return (
     <Section>
       <Header>
-        <h1>Projects</h1>
+        <div>Projects</div>
         <a href="#contact-me">CONTACT ME</a>
       </Header>
       <ProjectGrid>
