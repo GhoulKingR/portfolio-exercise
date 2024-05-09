@@ -4,6 +4,8 @@
 
 Portfolio exercise from frontend mentor.
 
+TypeScript, Vite, and React.js
+
 Reference links:
 * Frontend exercise page: https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
 * Live site: https://ghoulkingr.github.io/portfolio-exercise/
