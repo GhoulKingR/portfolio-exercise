@@ -4,18 +4,17 @@
 
 A sample portfolio project.
 
-# 👨‍💻 Frontend Mentor page
+# Frontend Mentor page
 
 https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
 
-# ⚡️ Live site 
+# Live site 
 
 https://ghoulkingr.github.io/portfolio-exercise/
 
 
-# 🏃‍♂️‍➡️ Running this project locally
+# Running this project locally
 
-If you want to run this project locally follow these steps:
 1. Install the dependencies:
 ```bash
 npm i
