@@ -26,7 +26,3 @@ npm i
 # launch the dev server
 npm run dev
 ```
-
-After that open the url that the terminal shows you in your browser. In this case it is `http://localhost:5173/portfolio-exercise`
-
-![Screenshot](https://github.com/GhoulKingR/portfolio-exercise/assets/87097037/e621118c-14c0-4cb3-bd04-aa71f9b28dd3)
