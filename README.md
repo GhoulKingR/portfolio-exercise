@@ -10,7 +10,7 @@ Reference links:
 
 # Running this project locally
 
-To run this application on your machine run these lines in the terminal:
+To run this application on your machine run these lines in your terminal:
 ```bash
 # clone this project
 git clone https://github.com/GhoulKingR/portfolio-exercise.git
