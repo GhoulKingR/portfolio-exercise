@@ -2,26 +2,29 @@
 
 ![Screenshot](./assets/screenshot.png)
 
-A sample portfolio project.
+Portfolio exercise from frontend mentor.
 
-# Frontend Mentor page
-
-https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
-
-# Live site 
-
-https://ghoulkingr.github.io/portfolio-exercise/
-
+Reference links:
+* Frontend exercise page: https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
+* Live site: https://ghoulkingr.github.io/portfolio-exercise/
 
 # Running this project locally
 
-1. Install the dependencies:
+To run this application on your machine run these lines in the terminal:
 ```bash
+# clone this project
+git clone https://github.com/GhoulKingR/portfolio-exercise.git
+
+# open the portfolio-exercise folder in the terminal
+cd portfolio-exercise
+
+# install dependencies
 npm i
-```
-2. Run the development server:
-```bash
+
+# launch the dev server
 npm run dev
 ```
 
-After following these steps, you will see the url of the web app in your terminal. Open that url in your browser to see the web app.
+After that open the url that the terminal shows you in your browser. In this case it is `http://localhost:5173/portfolio-exercise`
+
+![Screenshot](https://github.com/GhoulKingR/portfolio-exercise/assets/87097037/e621118c-14c0-4cb3-bd04-aa71f9b28dd3)
