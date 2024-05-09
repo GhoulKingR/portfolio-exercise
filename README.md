@@ -4,7 +4,7 @@
 
 Portfolio exercise from frontend mentor.
 
-TypeScript, Vite, and React.js
+This project was built using TypeScript, Vite, and React.js
 
 Reference links:
 * Frontend exercise page: https://www.frontendmentor.io/solutions/singlepage-portfolio-page-ckpqOAYFBF
